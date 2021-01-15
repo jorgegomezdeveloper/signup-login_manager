@@ -1,0 +1,3 @@
+include ':SignUp Login Manager Library'
+include ':app'
+rootProject.name = "SignUp Login Manager"
